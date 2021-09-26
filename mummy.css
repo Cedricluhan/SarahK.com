@@ -1,0 +1,22 @@
+.center {
+    text-align: center;
+}
+
+#center {
+    color: rgb(224, 50, 240);
+    background-color: rgb(20, 94, 190);
+    font-size: xx-large;
+}
+
+.btn:hover {
+    background-color: violet;
+}
+
+#Slider {
+    width: 50%;
+    height: 1000px;
+}
+
+#right {
+    align-content: flex-start;
+}
